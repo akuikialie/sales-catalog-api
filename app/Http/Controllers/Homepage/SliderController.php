@@ -18,12 +18,12 @@ class SliderController extends Controller
             [
                 'id' => 1,
                 'alt' => 'alt 1',
-                'path' => '',
+                'path' => 'https://klinikpintar.id/images/new_homepage/hero-update.png',
             ],
             [
                 'id' => 2,
                 'alt' => 'alt 2',
-                'path' => '',
+                'path' => 'https://klinikpintar.id/images/new_homepage/img-untuk-pasien.png',
             ],
         ];
 
